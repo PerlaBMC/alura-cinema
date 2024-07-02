@@ -1,4 +1,4 @@
-import Banner from "components/Banner/index"
+import Banner from "components/Banner/index.js"
 import styles from "./Player.module.css"
 import Titulo from "components/Titulo/Index"
 import { useParams } from "react-router-dom";
